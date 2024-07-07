@@ -10,40 +10,7 @@
         }
       ]
     },
-    {
-      "id": "8323",
-      "topic": "Introduction",
-      "explanation": [
-        {
-          "subtopic": "Introduction",
-          "explanation": "Hello, I’m Garry David a frontend developer with 2 years and 4 months of experience in developing web applications using Angular."
-        },
-        {
-          "subtopic": "Projects",
-          "explanation": "In my previous role at MACOM, I have worked on various projects such as \n Loan management Systems which digitalized the entire loan management process \n smart form builder where the users can create their own forms and generate report like the google forms \n a collection app created using angular and cordova for mobile users."
-        },
-        {
-          "subtopic": "Skills",
-          "explanation": "I’m also familier with tools and frameworks such as\nburp suite for vulnerability testing\nChrome devtools and lighthouse for performance analysis and optimisation.\nangular material,Prime Ng for UI Design\n and GIT Lab and GIT Hub for version control.\n\n i'm also learnig React and Java "
-        },
-        {
-          "subtopic": "Conclusion",
-          "explanation": "I’m always looking for opportunities to improve my skills and I’m currently looking for a new role as an Angular developer where I can apply my expertise and contribute to the success of the team and the company."
-        },
-        {
-          "subtopic": "Main Soft Skills",
-          "explanation": "Good in understanding the client requirements\n Good at explaing the topics\nDebugging and finding solutions for problems\nFast Learner"
-        },
-        {
-          "subtopic": "Why Work Here",
-          "explanation": "I’ve been actively searching for jobs and the job description matched up well with my background so I applied for it."
-        },
-        {
-          "subtopic": "Resigned Reason",
-          "explanation": "I had been with the organization for about 2.4 years and I don't feel there was an opportunity to advance further so I thought a change would best for my career."
-        }
-      ]
-    },
+
     {
       "id": "91e2",
       "topic": "DevTools",
